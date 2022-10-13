@@ -1,9 +1,0 @@
-@import url(./vendor/normalize.css);
-@import url(./vendor/fonts.css);
-@import url(./page.css);
-@import url(./header/header.css);
-@import url(./header/__square-pic/header__square-pic.css);
-@import url(./header/logo/logo.css);
-@import url(./header/logo/_place_header/logo_place_header.css);
-@import url(./header/__title/header__title.css);
-@import url(./header/__subtitle/header__subtitle.css);

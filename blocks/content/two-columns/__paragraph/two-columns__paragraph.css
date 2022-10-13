@@ -1,0 +1,18 @@
+.two-columns__paragraf {
+    
+    line-height: 34px;
+    font-size: 24px;
+    font-style: normal;   
+}
+
+.paragraph_bold {
+    font-weight: bold;
+    line-height: 34px;
+    font-size: 24px;
+    font-style: 600;
+  }
+
+.two-columns__paragraf_margin {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}  
