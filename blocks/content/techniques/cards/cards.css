@@ -1,0 +1,19 @@
+.cards {
+    width: 920px;
+    margin: 0 auto 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items:stretch;
+    justify-content: space-between;
+    
+}
+
+.cards_second {
+    width: 920px;
+    margin: 0 auto 0 auto;
+    display: flex;
+    flex-direction: row;
+    /*align-items:stretch;*/
+    /*justify-content: space-between;*/
+    
+}
