@@ -3,45 +3,41 @@
     max-width: 1600px;
     margin: 0 auto;
     font-family: 'Inter', 'Arial', sans-serif;
-    text-indent: 5px 5px 5px 5px;
+    text-indent: 5px;
 }
 
-/*div {
-  border: 1px solid red;
-}*/
-
 p {
-  text-indent: 5px 5px 5px 5px;
+  text-indent: 5px;
   margin: 0;
 }
 
 h1 {
-  text-indent: 5px 5px 5px 5px;
+  text-indent: 5px;
   margin: 0;
 }
 
 h2 {
-  text-indent: 5px 5px 5px 5px;
+  text-indent: 5px;
   margin: 0;
 }
 
 h3 {
-  text-indent: 5px 5px 5px 5px;
+  text-indent: 5px;
   margin: 0;
 }
 
 h4 {
-  text-indent: 5px 5px 5px 5px;
+  text-indent: 5px;
   margin: 0;
 }
 
 h5 {
-  text-indent: 5px 5px 5px 5px;
+  text-indent: 5px;
   margin: 0;
 }
 
 h6 {
-  text-indent: 5px 5px 5px 5px;
+  text-indent: 5px;
   margin: 0;
 }
 
