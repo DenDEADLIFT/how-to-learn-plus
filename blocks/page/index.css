@@ -12,7 +12,7 @@
 @import url(../../blocks/header/__main-illustration/header__main-illustration.css);
 
 @import url(../../blocks/logo/logo.css);
-@import url(../../blocks/logo/_place_header/logo_place_header.css);
+@import url(../../blocks/logo/__place_header/logo__place_header.css);
 
 @import url(../../blocks/description/description.css);
 
@@ -75,9 +75,10 @@
 @import url(../../blocks/resources/__link/resources__link.css);
 
 @import url(../../blocks/footer/footer.css);
+@import url(../../blocks/footer/__theme_dark/footer__theme_dark.css);
 @import url(../../blocks/footer/__columns/footer__columns.css);
 @import url(../../blocks/footer/__column/content_copyright/footer__column_content_copyright.css);
-@import url(../../blocks/footer/logo/__place_footer/logo_place_footer.css);
+@import url(../../blocks/footer/logo/__place_footer/logo__place_footer.css);
 @import url(../../blocks/footer/__author/footer__author.css);
 @import url(../../blocks/footer/__column/_content_info/column__content_info.css);
 @import url(../../blocks/footer/__column/_content_social/column__content_social.css);
