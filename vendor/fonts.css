@@ -14,5 +14,5 @@
     src: url(../vendor/fonts/Inter/Inter/Inter-SemiBold.woff) format('woff'),
          url(../vendor/fonts/Inter/Inter/Inter-SemiBold.woff2) format('woff2');
     font-family: 'Inter'; 
-    font-weight: bolder;
+    font-weight: 600;
 }
